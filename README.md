@@ -1,77 +1,110 @@
-# 👋 Hi, I'm Sai Lakshmi Priya | 💻 Web Developer
+<h1 align="center">Hi there, I'm Sai Lakshmi Priya 👋</h1>
 
-I’m a passionate **Python Developer** with hands-on experience in building responsive and intelligent web applications.
-I love crafting user-friendly interfaces and working with APIs to bring real-time functionality to life.
-Currently focused on **backend development** and exploring the **OpenAI ecosystem** for creating AI-powered applications.
+<p align="center">
+  <em>🐍 Python Developer | 💻 Web Developer | 🌱 AI & LLM Enthusiast</em>
+</p>
 
----
-
-### 🧰 Technical Skills
-
-**Languages:** Python, JavaScript, HTML, CSS
-**Frameworks:** FastAPI, React.js, Node.js
-**Databases:** PostgreSQL, MySQL
-**Deployment:** AWS, Docker
-**Dev Tools:** Visual Studio Code, Git
-
----
-
-### 💼 Experience
-
-**Python Developer — Trangla** *(Sep 2024 – Oct 2025)*
-
-* Worked on backend and AI-powered systems using Python and FastAPI.
-* Integrated APIs and optimized token usage in OpenAI-based applications.
-* Focused on real-time AI system design and performance.
-
-**Web Developer — DVSoft, Guntur** *(Mar – May 2024)*
-
-* Designed and developed dynamic, responsive websites using HTML, CSS, and JavaScript.
-* Implemented FastAPI to interact with databases for real-time data display.
+<p align="center">
+  <a href="https://github.com/SaiLPriya" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Visit-black?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/sai-lakshmi-priya-marturu" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:marturusailakshmipriya@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Say%20Hi-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="./Rezume.pdf" target="_blank">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-View-blueviolet?style=flat-square&logo=adobeacrobatreader" />
+  </a>
+</p>
 
 ---
 
-### 🎓 Education
+## 🚀 About Me
 
-**B.Tech in Computer Science**
+* 🧑‍💻 Passionate **Python Developer** with experience in **backend & AI-driven applications**.
+* 💡 Skilled in **FastAPI**, **React.js**, and **API integrations** for web systems.
+* ⚙️ Strong foundation in **HTML**, **CSS**, and **JavaScript** for frontend development.
+* 🌐 Exploring the **OpenAI ecosystem** and building **LLM-powered applications**.
+* ☁️ Interested in **AWS** and **Docker** deployment workflows.
+
+---
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 💼 Experience
+
+### 🧠 **Python Developer – Trangla** *(Sep 2024 – Oct 2025)*
+
+> * Built and optimized AI-powered backend systems using **Python** and **FastAPI**.
+> * Integrated APIs with the **OpenAI ecosystem** for intelligent workflows.
+> * Focused on **token optimization** and **real-time AI system design**.
+
+### 💻 **Web Developer – DVSoft** *(Mar – May 2024)*
+
+> * Designed and developed responsive websites using **HTML**, **CSS**, and **JavaScript**.
+> * Implemented **FastAPI** for database interactions and data visualization.
+
+---
+
+## 🎓 Education
+
+🎓 **B.Tech in Computer Science**
 *Vignan’s Nirula Institute of Technology and Science for Women, Guntur* (2021 – 2025)
 
 ---
 
-### 🧪 Projects
+## 🧪 Featured Projects
 
-**🌿 Corn Leaf Disease Detection — Deep Learning using InceptionV3**
+### 🌿 **Corn Leaf Disease Detection (Deep Learning with InceptionV3)**
 
-* Built a model using TensorFlow and Python to classify corn leaf diseases (Blight, Rust, Gray Leaf Spot, Healthy).
-* Aimed at improving early detection of plant diseases.
+> * Built a deep learning model using **TensorFlow** and **Python**.
+> * Classified leaf diseases (Blight, Rust, Gray Leaf Spot, Healthy).
+> * Helped in **early detection of plant diseases** through image analysis.
 
-**🏠 Ramachandra Brothers Website — HTML, CSS, PostgreSQL**
+### 🏠 **Ramachandra Brothers Website**
 
-* Designed a responsive business website with a clean interface and structured layout.
-* Enhanced user experience and brand visibility.
-
----
-
-### 📜 Certifications
-
-* Web Development Internship — DVSoft
-* Microsoft Certified: Azure Administrator Associate
-* Python Full Stack Internship — Purple Technologies
+> * Created a fully responsive website using **HTML**, **CSS**, and **PostgreSQL**.
+> * Enhanced UX with structured layouts and clean UI.
+> * Developed backend connectivity for dynamic content.
 
 ---
 
-### 📫 Connect With Me
+## 📜 Certifications
 
-
-
-📧 [marturusailakshmipriya@gmail.com](mailto:marturusailakshmipriya@gmail.com)
-
----
-
-### 📄 Resume
-
-📥 [Click here to view my resume](./Rezume.pdf)
+* ✅ **Web Development Internship — DVSoft**
+* ☁️ **Microsoft Certified: Azure Administrator Associate**
+* 🐍 **Python Full Stack Internship — Purple Technologies**
 
 ---
 
-⭐ *“Code with clarity, learn with curiosity, and build with creativity.”*
+## 🔗 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/sai-lakshmi-priya-marturu)
+* 🐙 [GitHub](https://github.com/SaiLPriya)
+* 📧 [Email](mailto:marturusailakshmipriya@gmail.com)
+* 📄 [View My Resume](./Rezume.pdf)
+
+---
+
+<p align="center">
+  <em>“Code with clarity, learn with curiosity, and build with creativity.”</em>
+</p>
