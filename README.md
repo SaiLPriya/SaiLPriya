@@ -65,13 +65,6 @@
 
 ---
 
-## 🎓 Education
-
-🎓 **B.Tech in Computer Science**
-*Vignan’s Nirula Institute of Technology and Science for Women, Guntur* (2021 – 2025)
-
----
-
 ## 🧪 Featured Projects
 
 ### 🌿 **Corn Leaf Disease Detection (Deep Learning with InceptionV3)**
