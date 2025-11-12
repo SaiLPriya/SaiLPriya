@@ -94,8 +94,7 @@
 * 💼 [LinkedIn](https://www.linkedin.com/in/sai-lakshmi-priya-marturu)
 * 🐙 [GitHub](https://github.com/SaiLPriya)
 * 📧 [Email](mailto:marturusailakshmipriya@gmail.com)
-* 📄 [View My Resume](https://github.com/SaiLPriya/resume.pdf.git)
-
+* 📄 [View My Resume](https://github.com/SaiLPriya/resume.pdf/blob/main/resume.pdf)
 ---
 
 <p align="center">
