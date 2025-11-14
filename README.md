@@ -14,7 +14,7 @@
   <a href="mailto:marturusailakshmipriya@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Say%20Hi-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/SaiLPriya/resume.pdf/blob/main/SAI%20LAKSHMI%20PRIYA%20-%20CV%20.pdf" target="_blank">
+  <a href="https://github.com/SaiLPriya/resume.pdf/blob/main/SAI%20LAKSHMI%20PRIYA%20-%20CV%20%20(1).pdf" target="_blank">
     <img alt="Resume" src="https://img.shields.io/badge/Resume-View-blueviolet?style=flat-square&logo=adobeacrobatreader" />
   </a>
 </p>
@@ -94,7 +94,7 @@
 * 💼 [LinkedIn](https://www.linkedin.com/in/sai-lakshmi-priya-marturu)
 * 🐙 [GitHub](https://github.com/SaiLPriya)
 * 📧 [Email](mailto:marturusailakshmipriya@gmail.com)
-* 📄 [View My Resume](https://github.com/SaiLPriya/resume.pdf/blob/main/SAI%20LAKSHMI%20PRIYA%20-%20CV%20.pdf)
+* 📄 [View My Resume](https://github.com/SaiLPriya/resume.pdf/blob/main/SAI%20LAKSHMI%20PRIYA%20-%20CV%20%20(1).pdf)
 ---
 
 <p align="center">
