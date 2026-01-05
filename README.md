@@ -52,13 +52,13 @@
 
 ## 💼 Experience
 
-### 🧠 **Python Developer – Trangla** *(Sep 2024 – Oct 2025)*
+### 🧠 **Python Developer – Trangla** *(Dec 2024 – Present)*
 
 > * Built and optimized AI-powered backend systems using **Python** and **FastAPI**.
 > * Integrated APIs with the **OpenAI ecosystem** for intelligent workflows.
 > * Focused on **token optimization** and **real-time AI system design**.
 
-### 💻 **Web Developer – DVSoft** *(Mar – May 2024)*
+### 💻 **Web Developer – DVSoft** *(Jul 2024 – Nov 2024)*
 
 > * Designed and developed responsive websites using **HTML**, **CSS**, and **JavaScript**.
 > * Implemented **FastAPI** for database interactions and data visualization.
